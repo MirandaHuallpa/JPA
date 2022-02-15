@@ -13,8 +13,8 @@ PROVEEDORES: Oracle, Redhat, Eclipse, etc que proporcionan nuevos productos medi
 Algunos de estos productos incluyen: Hibernate, Eclipselink, Toplink, ObjectDB, Open JPA, entre otros.
 Se usará <b>eclipselink en su versión 2.1</b>
 
-<h6>phpMyAdmin</h6>
-Crear una base de datos en phpMyAdmin. (escuela, cotejamiento).
+<h3>phpMyAdmin</h3>
+Crear una base de datos en phpMyAdmin. (escuela, cotejamiento).<br>
 Sin crear ninguna tabla, nos vamos a la sección de Privilegios.
 Agregamos cuenta de usuario.
   Nombre de usuario: esc
