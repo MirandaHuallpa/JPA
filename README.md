@@ -2,11 +2,12 @@
 Java Persistence API
 
 ¿Qué es JPA?
-
-º Es una API (Application Programming Interface) desarrollada principalmente para la plataforma Java EE.
-º Es la propuesta estándar que ofrece Java para implementar un Framework Object Relational Mapping (ORM), 
-  que permite interactuar con la base de datos por medio de objetos.
-º JPA es el encargado de convertir los objetos Java en instrucciones para el Manejador de Base de Datos (MDB).
+<ol>
+<li>º Es una API (Application Programming Interface) desarrollada principalmente para la plataforma Java EE.</li>
+<li>º Es la propuesta estándar que ofrece Java para implementar un Framework Object Relational Mapping (ORM), 
+  que permite interactuar con la base de datos por medio de objetos.</li>
+<li>º JPA es el encargado de convertir los objetos Java en instrucciones para el Manejador de Base de Datos (MDB).</li>
+</ol>
 
 PROVEEDORES: Oracle, Redhat, Eclipse, etc que proporcionan nuevos productos mediante la adición de la persistencia.
 Algunos de estos productos incluyen: Hibernate, Eclipselink, Toplink, ObjectDB, Open JPA, entre otros.
