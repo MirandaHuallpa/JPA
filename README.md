@@ -11,7 +11,7 @@ Java Persistence API
 
 PROVEEDORES: Oracle, Redhat, Eclipse, etc que proporcionan nuevos productos mediante la adición de la persistencia.
 Algunos de estos productos incluyen: Hibernate, Eclipselink, Toplink, ObjectDB, Open JPA, entre otros.
-Se usará <p>eclipselink en su versión 2.1</p>
+Se usará <br>eclipselink en su versión 2.1</br>
 
 <h6>phpMyAdmin</h6>
 Crear una base de datos en phpMyAdmin. (escuela, cotejamiento).
