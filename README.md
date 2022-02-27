@@ -13,19 +13,23 @@ PROVEEDORES: Oracle, Redhat, Eclipse, etc que proporcionan nuevos productos medi
 Algunos de estos productos incluyen: Hibernate, Eclipselink, Toplink, ObjectDB, Open JPA, entre otros.
 Se usará <b>eclipselink en su versión 2.1</b>
 
-<h3>phpMyAdmin</h3>
-Crear una base de datos en phpMyAdmin. (escuela, cotejamiento).<br>
-Sin crear ninguna tabla, nos vamos a la sección de Privilegios.
-Agregamos cuenta de usuario.
-  Nombre de usuario: esc
-  Nombre de host (cualquier servidor) : % (el signo porcentaje da todos los permisos)
-  Contraseña : 12345
-  Autenticación de MySQL nativo
-  Dar todos los permisos de Datos, Estructura, Administración.
+<h2>phpMyAdmin</h2>
+Crear una base de datos--> Nombre: escuela (cotejamiento) --> CREAR.<br>
+Sin crear ninguna tabla, nos vamos a la sección de Privilegios.<br>
+<b>Agregamos cuenta de usuario:</b>
+<ul>
+  <li>Nombre de usuario: esc </li>
+  <li>Nombre de host (cualquier servidor) : % (el signo porcentaje da todos los permisos) </li>
+  <li>Contraseña : 12345 </li>
+  <li>Autenticación de MySQL nativo </li>
+  <li>Dar todos los permisos de Datos, Estructura, Administración. </li>
+  <li>CONTINUAR</li>
+</ul>
 
-<h6>Netbeans</h6>
-New proyect -> Java -> Java Application
-Nombre: testJPA
+<h3>Netbeans</h3>
+<ul>
+  <li>New proyect -> Java -> Java Application --> Nombre: testJPA</li>
+  
 
 
 
