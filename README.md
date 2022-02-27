@@ -40,6 +40,11 @@ Sin crear ninguna tabla, nos vamos a la sección de Privilegios.<br>
       <li>Password: 12345 </li>
       <li>JDBC: jsbc:mysql.../escuela?serverTimezone=UTC</li>
       <li>Finish</li>
+    </ol>
+  <li>Volvemos a Proyects y:</li>
+  <li>En librerias --> Click derecho -->Add JAR/Folder</li>
+  <li>Agrego archivo: mysql-connection-java-5.1.23-bin</li>
+  
 </ul>
   
 
