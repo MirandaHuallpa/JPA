@@ -47,7 +47,8 @@ Sin crear ninguna tabla, nos vamos a la sección de Privilegios.<br>
 <li>En testJPA --> New -->Persistence Unit</li>
 <li>Paso1:En caso de no aparecer ir a OTHER --> Carpeta Persistence Unit -> Persistence Unit --> Next</li>
 <li>Paso2:Nombre: testJPAPU (Persistence Unit)</li>
-
+<li>Persitence Librery: EclipseLink(JPA 2.1)</li>
+<li>DataBase Connection: jdbc:mysql://...escuela?serverTimezone=UTC</li>
 
   
 
