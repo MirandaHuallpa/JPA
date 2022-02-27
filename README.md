@@ -32,7 +32,14 @@ Sin crear ninguna tabla, nos vamos a la sección de Privilegios.<br>
   <li>A la izquierda tenés: Proyects / Files / Services </li>
   <li>Para crear conexión de Base de Datos. Entras a Services. </li>
     <ol>
-      <li>Databases --> Click Derecho --> New Connection.
+      <li>Databases --> Click Derecho --> New Connection.</li>
+      <li>Elegimos el Driver: MySQL (Connector/J driver) --> Sino está agreagarlo.</li>
+      <li>Host: localHost --> Port: 3306 </li>
+      <li>Database: escuela </li>
+      <li>User Name: esc </li>
+      <li>Password: 12345 </li>
+      <li>JDBC: jsbc:mysql.../escuela?serverTimezone=UTC</li>
+      <li>Finish</li>
 </ul>
   
 
