@@ -26,9 +26,14 @@ Sin crear ninguna tabla, nos vamos a la sección de Privilegios.<br>
   <li>CONTINUAR</li>
 </ul>
 
-<h3>Netbeans</h3>
+<h2>Netbeans</h2>
 <ul>
   <li>New proyect -> Java -> Java Application --> Nombre: testJPA</li>
+  <li>A la izquierda tenés: Proyects / Files / Services </li>
+  <li>Para crear conexión de Base de Datos. Entras a Services. </li>
+    <ol>
+      <li>Databases --> Click Derecho --> New Connection.
+</ul>
   
 
 
